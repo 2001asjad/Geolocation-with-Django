@@ -13,7 +13,7 @@ def calculate_distance_view(request):
     destination = None
     obj = get_object_or_404(Measurements,id=1)
     form = MeasurementModelForm(request.POST or None)
-    geolocator = Nominatim(user_agent='measurements')
+    geolocator = Nominatim(user_agent="name_of_your_app")
 
     ip_ = get_ip_address(request)
     print(ip_)
