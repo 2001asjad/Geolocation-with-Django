@@ -1,5 +1,6 @@
 # Geolocation-with-Django
 A project in Django that uses Geolocation and Folium.
+This project was made by me to enhance my resume.
 # Installation:
 1. Fork this repository.
 2. Create a virtual environment in Command Prompt.
@@ -16,4 +17,3 @@ Calculates the distance between current place and any other place on the planet.
 
 2.Get the total distance in kilometers:
 ![SecondCapture](https://user-images.githubusercontent.com/60435499/103366457-b7b6a300-4ae8-11eb-8921-aa54440f065f.PNG)
-
