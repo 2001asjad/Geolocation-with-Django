@@ -2,6 +2,7 @@
 A project in Django that uses Geolocation and Folium.
 This project was made by me to enhance my resume.
 I want to practice the sign-off feature of the commit message.
+More
 # Installation:
 1. Fork this repository.
 2. Create a virtual environment in Command Prompt.
